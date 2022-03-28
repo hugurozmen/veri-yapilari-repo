@@ -1,0 +1,20 @@
+# Veri Yapıları Proje 3
+
+
+1) [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
+2) Not: Root 7 Seçilmiştir.
+
+```
+          7
+         / \
+        5   8
+       / \   \  
+      1   6   9
+     / \   
+    0   3 
+       / \
+      2   4  
+      
+```
+
+[Patika](www.patika.dev)
